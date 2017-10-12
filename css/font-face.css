@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Verdana;
+    font-weight: 200;
+    src: url(../fonts/Verdana.ttf);
+}
+
+@font-face {
+    font-family: Verdana-Bold;
+    font-weight: bold;
+    src: url(../fonts/Verdana-Bold.ttf);
+}
+@font-face {
+    font-family: Moyko;
+    src: url(../fonts/Moyko.ttf);
+}
+
