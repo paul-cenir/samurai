@@ -259,6 +259,14 @@ body {
     color: #ffffff;
 }
 
+.bt-style-15 p {
+    font-family: Karla;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 0.97;
+    color: #ffffff;
+}
+
 .ul-c-1 {
     background-color: #bd3a00;
     margin: 0;
@@ -476,4 +484,13 @@ body {
 .img-border-2 {
     border-radius: 5px;
     border: solid 12px #e7481d;
+}
+
+.custom-padding-carousel {
+    padding: 0 120px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 64px;
+    height: 64px;
 }
